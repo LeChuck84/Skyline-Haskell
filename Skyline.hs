@@ -2,7 +2,7 @@ module Skyline where
 
 -- Cabecera del programa Skyline.hs
 -- Práctica de Teoría de los Lenguajes de Programación
--- Curso 2015-2016
+-- Lenguaje funcional
 
 type Edificio = (Int,Int,Int)
 type Coordenada = (Int,Int)
