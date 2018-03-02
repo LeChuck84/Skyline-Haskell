@@ -8,18 +8,6 @@ type Edificio = (Int,Int,Int)
 type Coordenada = (Int,Int)
 type Skyline = [Coordenada]
 
--- Ejemplos de edificio
-e1::Edificio
-e1 = (1,3,3)
-e2::Edificio
-e2 = (1,6,2)
-e3::Edificio
-e3 = (2,4,4)
-e4::Edificio
-e4 = (6,7,3)
-e5::Edificio
-e5 = (5,6,8)
-lista = [e1,e2,e3,e4,e5]
 --------------------------------------------------------------------------
 --Funciones de la practica
 --------------------------------------------------------------------------
